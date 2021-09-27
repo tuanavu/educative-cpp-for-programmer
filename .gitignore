@@ -33,3 +33,14 @@
 
 # Mac
 .DS_Store
+
+### CMake template
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+cmake-build-debug
+
+## Directory-based project format:
+.idea/
